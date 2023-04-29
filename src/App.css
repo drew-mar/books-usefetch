@@ -1,0 +1,43 @@
+.App {
+  text-align: center;
+  margin: auto 360px;
+}
+
+.book-list{
+  width: 480px;
+  margin: 60px;
+}
+
+.book-list ul{
+  padding: 0;
+}
+
+.book-list li{
+  border: 1px solid #e4e4e4;
+  box-sizing: border-box;
+  padding: 10px;
+  box-shadow: 4px 4px 6px rgba(0,0,0,0.05);
+  border-radius: 4px;
+  list-style: none;
+  margin: 20px 0;
+}
+
+.book-list .filters{
+  display: flex;
+  gap: 10px;
+}
+
+.book-list button{
+  padding: 10px;
+  font-size: 14px;
+  flex-grow: 1;
+  border: none;
+  border-radius: 2px;
+  background: dodgerblue;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 40px;
+}
+
+
+

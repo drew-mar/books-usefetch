@@ -1,0 +1,74 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "The Inmate",
+      "author": "Freida McFadden",
+      "rating": 4.18,
+      "genre": "Mystery"
+    },
+    {
+      "id": 2,
+      "title": "Off the Deep End",
+      "author": "Lucinda Berry",
+      "rating": 3.52,
+      "genre": "Fiction"
+    },
+    {
+      "id": 3,
+      "title": "Gone Again",
+      "author": "Minka Kent",
+      "rating": 3.94,
+      "genre": "Fiction"
+    },
+    {
+      "id": 4,
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "rating": 4.38,
+      "genre": "Productivity"
+    },
+    {
+      "id": 5,
+      "title": "Saving Time: Discovering a Life Beyond the Clock",
+      "author": "Jenny Odell",
+      "rating": 3.73,
+      "genre": "Productivity"
+    },
+    {
+      "id": 6,
+      "title": "Antimatter Blues",
+      "author": "Edward Ashton",
+      "rating": 2.98,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 7,
+      "title": "Wild Massive",
+      "author": "Scotto Moore",
+      "rating": 2.50,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 8,
+      "title": "Rubicon",
+      "author": "J.S. Dewes",
+      "rating": 5.00,
+      "genre": "Sci-Fi"
+    },
+    {
+      "id": 9,
+      "title": "Intrinsic Motivation",
+      "author": "Stefan Falk",
+      "rating": 5.00,
+      "genre": "Productivity"
+    },
+    {
+      "id": 10,
+      "title": "Infinity Gate",
+      "author": "M.R. Carey",
+      "rating": 5.00,
+      "genre": "Sci-Fi"
+    }
+  ]
+}
